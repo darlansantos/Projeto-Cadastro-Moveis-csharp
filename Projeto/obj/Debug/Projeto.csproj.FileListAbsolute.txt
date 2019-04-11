@@ -1,0 +1,7 @@
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
